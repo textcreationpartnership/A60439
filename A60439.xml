@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idolatry declared against by a servant of the Living God, a sufferer for the testimony of His Name in the common goal at Winchester, Humphry Smith.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60439</idno>
+            <idno type="STC">Wing S4064</idno>
+            <idno type="STC">ESTC R10255</idno>
+            <idno type="EEBO-CITATION">13777598</idno>
+            <idno type="OCLC">ocm 13777598</idno>
+            <idno type="VID">101768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Idolatry declared against by a servant of the Living God, a sufferer for the testimony of His Name in the common goal at Winchester, Humphry Smith.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Idols and images --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101768:1"/>
+            <pb facs="tcp:101768:1" rendition="simple:additions"/>
+            <p>IDOLATRY DECLARED AGAINST.</p>
+            <p>By a ſervant of the Living God, A ſufferer for the Teſtimony of his Name in the Common Goal at <hi>Wincheſter.</hi>
+            </p>
+            <p>H<g ref="char:V">Ʋ</g>MPHRY SMITH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1658.</p>
+            <pb facs="tcp:101768:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101768:2" rendition="simple:additions"/>
+            <head>Idolatry declared againſt.</head>
+            <p>THe Great and Mighty God who made the heavens and the earth, and the Sea, and made all men of one blood upon the face of the whole earth, and breathed into man that which is of his own life, that by it man might ſeek after him, &amp; find him, who is infinite incomprehenſible eternal and glorious, even he dwel<g ref="char:EOLhyphen"/>eth not in Temples <hi>made</hi> with hands, <hi>Acts.</hi> 17. 24. Nei<g ref="char:EOLhyphen"/>ther is hee worſhipped in one high place or another by any of the profeſſing <hi>Jewes</hi> who deny his ſon, of whom he gave teſtimony that in him he is well pleaſed, neither is there any worſhip, or ſervice accepted with him, but that which cometh from them who are led and guided by the ſpirit of truth, and in it worſhip the Father who is a ſpirit, and delighteth not in thoſe oblations that are vain proceeding from the vain minds of ſuch who tak<g ref="char:EOLhyphen"/>eth his <hi>Name</hi> in <hi>Vain,</hi> of whom he ſaith in vain do they wor<g ref="char:EOLhyphen"/>ſhip me, and of all ſuch I ſay their faith is vain, who are yet in their ſins, and found among the Gentiles, who ſacrifice unto Devils and not unto God, being Children of wrath, and ſtrangers to the covenant of promiſe whoſe prayers the Lord abhors, whoſe vain bablings caſteth an ill ſavour in the no<g ref="char:EOLhyphen"/>ſtrils of the moſt high, and their coming together is not for the better, but for the worſe, even to feed and nouriſh the young Serpents, and to encreaſe in that knowledge which puffeth up and encreaſeth ſorrow, the which knowledge the (hireling) prieſts lips preſerve, which the Devil once taught, ſaying, ye ſhall be as Gods knowing good and evil, and all they who encreaſeth in this knowledge, encreaſeth in that in which the knowledge of God doth not ſtand, neither can be received, and ſo the wo from the Lord God will come unto all them that continue their ſeeking the living among the dead, crying for their place of holy worſhip (which is to be
+<pb n="2" facs="tcp:101768:3" rendition="simple:additions"/> laid deſolat) and living in unrighteouſneſs, and in all un<g ref="char:EOLhyphen"/>godly practiſes, without the fear of God, and talking of him with that mouth, which is full of curſing and bitterneſs, the heart being not turned to God, nor the mind unto the light of his Son, who are themſelves in the jaws of Satan, and are ſometimes made ſenſible of the power of the Devil working in them, ſtirring them up to wrath, and moving them up to envie, pride, and unrighteouſneſs, and the luſts of the crea<g ref="char:EOLhyphen"/>tures, and the vanity of the mind, but feel not at all the pow<g ref="char:EOLhyphen"/>er of God to work in them the newneſs of life and his pure i-image, who made man holy and upright, neither are they willing to receive that power in them by which they might come to overcome their ſins, and be led up to him who is the God of the ſpirits of all fleſh, whom all the world, (no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowing) is ignorant by worſhipping, and denying his Son (who maketh an end of ſin) and contemning the juſt One who is a man of ſorrows, and denying him who is led as a Lamb dumb, and ſlighting him who is the light, and refu<g ref="char:EOLhyphen"/>ſing him who is the living <hi>Miniſter,</hi> not made by a carnal commandment, but by the power of an endleſs life, who teacheth all to profit (who learn him) and none teacheth like him, who ſaith learn of <hi>Me,</hi> then not of another, not of a hireling, not of one that pleadeth for ſin, but of him that maketh an <hi>end</hi> of ſin, whom God the Father hath given a light to the Gentiles, a covenant to the people, that all men through him might be ſaved, who hath ſpoiled principallities and powers and all authorities, and now all dominions and <hi>authorities</hi> are to be ſubject to <hi>Him,</hi> who ſaid the true worſhip<g ref="char:EOLhyphen"/>pers ſhall worſhip the <hi>Father</hi> in ſpirit and in truth, and truth is that which maketh <hi>free,</hi> but the worſhiping the unknown God in a ſynagogue, Idols Temple or <hi>Steeple-houſe,</hi> doth not make <hi>free,</hi> neither makes an end of ſin, but all them that are there, are in their ſins, and have not received power to <hi>overcome</hi> their ſins; but are <hi>following ſuch Teachers,</hi> which <hi>Peter</hi> ſaid ſhould come in the latter dayes, who cannot <hi>themſelves</hi> ceaſe from ſin, and theſe <hi>Teachers, Peter</hi> ſaid (and ſo ſay I) that they are curſed children, beguiling ſuch unſtable ſouls, who are carried about with airy windy <hi>Doctrines,</hi> after the cun<g ref="char:EOLhyphen"/>ning craftineſs of <hi>men,</hi> who ſtill lie in wait to deceive, <hi>a<g ref="char:EOLhyphen"/>gainſt</hi>
+               <pb n="3" facs="tcp:101768:3" rendition="simple:additions"/> 
+               <hi>whom</hi> we bear teſtimony, <hi>from the ſpirit of Truth,</hi> which <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>deth us not to handle the <hi>word of God</hi> deceitfully, nor to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke <hi>Marchandize</hi> of the people, neither come we with <hi>flat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing titles,</hi> but in the <hi>power of the Lord, and in the demonſtra<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of his ſpirit of truth,</hi> do we declare againſt all unrighte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſneſs of <hi>Men,</hi> whether <hi>Prieſts, Rulers</hi> or <hi>people,</hi> without re<g ref="char:EOLhyphen"/>ſpect of perſons, and we declare his <hi>Name</hi> in the world, who in the light of the world, and publiſh him, <hi>among the Sons of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> who is Gods power, that ſaveth</hi> his people from their ſins, who is the true prophet, whom all are to hear, that all night come to learn of him, and be guided by him, in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of everlaſting peace, that ſo ſuch as are ſtrangers to the covenant of grace (being yet in their ſins) (and are the out<g ref="char:EOLhyphen"/>caſt of <hi>Iſrael)</hi> might now come to be taught of the Lord, and hear the powerful voice of his Son, <hi>and not follow ſtrangers any l<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ger, nor the dumb Idol ſheapherds,</hi> who are become brutiſh <hi>Jer.</hi> 10. 21. <hi>and cannot understand, Iſa.</hi> 56. 11. That from them all, ſuch who fear the Lord might be gathered, <hi>Ezek.</hi> 34. and may come to know the one Lord, whoſe name is one and the one truth, and the one way, <hi>and the worſhip of the one true God,</hi> and not follow them any longer, <hi>who are ſtrangers to the life of God, nor ſuch as cannot ceaſe from ſin,</hi> who are all in the curſe, being not reconciled unto him who was made a curſe, and ſo they come not to receive that by which the curſe is taken away, and <hi>ſuch are without God in the World,</hi> and of ſuch the Lord hath ſaid, <hi>you have wearied me with your ſa<g ref="char:EOLhyphen"/>crifices,</hi> and ſo ſay I to you now, you have wearied the Lord with your words) and yet many are ſaying wherein have we wearied him? I ſay in this have you wearied the Lord, in that you ſay ſuch as do evil are good in the ſight of God, <hi>Mal.</hi> 2. 17</p>
+            <p>Therefore thus I declare unto you, who are yet in your ſins meeting together in the <hi>Idols Temples,</hi> your <hi>ſervice</hi> is not the ſervice of the true God, neither is your worſhip that which the Lord accepteth, for he accepteth none but the worſhip in ſpirit and in truth, not in one high place or another, but your worſhip is in ſome <hi>high place, Idols temple or Steeple-houſe</hi> where all manner of <hi>Viperous Beaſts</hi> are <hi>found,</hi> and unſancti<g ref="char:EOLhyphen"/>fied <hi>Perſons</hi> meet together, who commit all <hi>abominations</hi> and
+<pb n="4" facs="tcp:101768:4" rendition="simple:additions"/> live in all manner of filthineſs, and yet lean upon the Lord, and ſay is not the Lord among us, <hi>no evil ſhall come unto us,</hi> whereas they are an evil and an adulterous generation, <hi>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tarated</hi> from the ſpirit of truth, in which the true worſhip ſtands, and are ignorantly worſhiping in a <hi>Temple</hi> made with hands, <hi>in which God dwelleth not,</hi> neither is his power there received, to <hi>overcome the ſin,</hi> and ſo the people are wearying themſelves for very <hi>vanity,</hi> and travelling to bring forth death, and labouring for that which profits <hi>not,</hi> neither do they come to <hi>meet the Lord</hi> in the way of his <hi>judgements,</hi> nor find the path of life, where the unclean can never come, neither yet do they know the bread of life, nor drink his blood that cleanſ<g ref="char:EOLhyphen"/>eth from all ſin, nor come to be tranſlated into the kingdom of the <hi>Son of God,</hi> but remain in that ground which was curſ<g ref="char:EOLhyphen"/>ſed by reaſon of mans rebellion, <hi>Gen.</hi> 3. 17. <hi>Heb.</hi> 6. 8. which ground being not removed with the mighty power of God, the bleſſing cannot be received, nor the underſtanding open<g ref="char:EOLhyphen"/>ed, to know and receive, that which the <hi>natural man</hi> percei<g ref="char:EOLhyphen"/>veth not, the eyes of their mind being darkened, through the ignorance that is in them, the <hi>vail</hi> being over the heart, when that is read every day of their worſhip, which diſcovers ſin, but makes nothing perfect which worſhippers did and do cru<g ref="char:EOLhyphen"/>cifie him that comes to take away the ſin.</p>
+            <p>But now he is come, <hi>who hath for ever perfected thoſe that are ſanctified, and he that ſanctifieth and they who are ſanctified are all of one,</hi> but they that are not ſanctified are not of the one, out are in the many <hi>opinions,</hi> in the luſts of ignorance &amp; waies of unrighteouſneſſe, being not come to the one faith which purifieth the heart, nor to know the one baptiſm, <hi>one Church, one way, one truth,</hi> one God the Father of him who is the one light, which lighteneth every man that cometh into the world of the which light which is but one, there is given a meaſure to every one of you, which light ſhineth in darknes, though not by it comprehended, which light wil let you ſee that you your ſelves are out of Gods Covenant <hi>in the worlds worſhip,</hi> not re<g ref="char:EOLhyphen"/>conciled to God, upholding idols temples, and heatheniſh cuſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oms, with Bels and ſuch things which the people of God never
+<pb n="5" facs="tcp:101768:4" rendition="simple:additions"/> uſed, but did and do deny for ever, and exhort you and all others to leave worſhipping the <hi>Beaſt,</hi> or upholding that which is not the true worſhip of the true God, practiſed by <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſin,</hi> in Steeple-houſes every firſt day.</p>
+            <p>Wherefore all people every where leave your <hi>Idolatry</hi> which you have learned and received by tradition from the former Papiſts &amp; Heathen who worſhip the work of their own hands, and bow down to their own inventions, as you long have done, and for this many hundred years have been learning, and yet are not come to the truth, neither to believe in it, but remain in unbelief and ignorance, and your long time of ig<g ref="char:EOLhyphen"/>norance God winked at, <hi>Acts</hi> 17. 30. but now light is come, in which God is calling to you, and all men every where to repent and forſake your <hi>Idolatrous worſhip,</hi> which by you a ſinful <hi>generation</hi> is practiſed in a <hi>Steeple-houſe</hi> one day in <hi>ſeven,</hi> and <hi>Cains nature</hi> remaining in the inward parts, from the which <hi>Idolatry</hi> all that fear <hi>the Lord God of Abraham</hi> are now to come from the uncleannes of that Worſhip which is upheld by the Heathen, for verily the hand of the <hi>Lord God Almighty</hi> is ſtretched forth againſt it and them.</p>
+            <p>Wherefore all people turn your mindes to the Lord God of life, who dwelleth in his people <hi>(and not in Temples made with hands)</hi> and hath given to every one of you a meaſure of the true Light of his Son, which light, <hi>in you,</hi> will let you ſee your ſecret ſinnes, and will teach you and ſhew you plainly of the Father, if you love it, and come to be led by it, to do Gods will, ſo may you come to worſhip the Lord God of Life, in ſpirit and in truth, with the children of the Light, and of the day which hath dawned upon many, who need not any man teach them, but are all taught of the Lord, glory and honour and everlaſting praiſes to his bleſſed <hi>Name for ever and ever, Amen.</hi>
+            </p>
+            <p>Given forth, A Teſtimony againſt all <hi>Idolatry and Heathen<g ref="char:EOLhyphen"/>iſh Worſhip;</hi> from the true love of God the Father, in pity to the ſouls of them who have eyes and ſee not, and ears and hear not, that they may come forth of darkneſſe, to follow Chriſt Jeſus the Light of the World, who is bringing the
+<pb n="6" facs="tcp:101768:5" rendition="simple:additions"/> blinde by a way that they know not, <hi>Iſa.</hi> 42. 16.</p>
+            <p>Therefore is this to go abroad among all people, and read in <hi>Steeple-houſes,</hi> Streets, Market-places, Private meetings and Families, that all may conſider what they have been do<g ref="char:EOLhyphen"/>ing in the dark, <hi>Ezek.</hi> 8. 12.</p>
+            <closer>
+               <dateline>By a ſervant of the Living God, A ſufferer for the Teſtimo<g ref="char:EOLhyphen"/>ny of his <hi>Name</hi> in the Common Goal and Houſe of Cor<g ref="char:EOLhyphen"/>rection at <hi>Wincheſter.</hi>
+                  <date>The fourth Moneth, 1658.</date>
+               </dateline>
+               <signed>Humphry Smith.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:101768:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
